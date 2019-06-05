@@ -1,1 +1,3 @@
 This user guide explains how to use this project.
+
+Similarly we added a new line to this guide from NewFeature branch.
