@@ -3,3 +3,4 @@ This user guide explains how to use this project.
 Similarly we added a new line to this guide from NewFeature branch.
 
 This line is added after switching back to master from branch new_john_branch.
+This line is added after creating new branch v2.0.
