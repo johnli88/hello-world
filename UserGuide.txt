@@ -4,3 +4,5 @@ Similarly we added a new line to this guide from NewFeature branch.
 
 This line is added after switching back to master from branch new_john_branch.
 This line is added after creating new branch v2.0.
+
+This line is added to test rebasing after recreating branch iss53.
